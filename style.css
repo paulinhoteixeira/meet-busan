@@ -52,3 +52,62 @@ main {
   font-weight: 400;
   text-align: center;
 }
+
+.divider {
+  width: 100%;
+  height: 1px;
+  margin: 4.4rem 0 6.4rem;
+  background-color: #d9d9d9;
+}
+
+p {
+  font-size: 1.6rem;
+  font-style: normal;
+  font-weight: 400;
+  color: var(--text-secondary);
+}
+
+.card-travel img {
+  margin: 4.8rem 0 2rem;
+}
+
+h3 {
+  font-size: 2.8rem;
+  font-style: normal;
+  font-weight: 700;
+  margin-bottom: 0.4rem;
+}
+
+.accent-blue {
+  color: var(--accent-blue);
+}
+
+.accent-purple {
+  color: var(--accent-purple);
+}
+
+.accent-pink {
+  color: var(--accent-pink);
+}
+
+.accent-orange {
+  color: var(--accent-orange);
+}
+
+#text-final {
+  text-align: center;
+}
+
+footer {
+  padding: 6.5rem 0 4.8rem;
+  text-align: center;
+  font-family: Alice;
+  font-size: 1.6rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: .4rem;
+}
